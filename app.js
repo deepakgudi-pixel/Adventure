@@ -83,9 +83,3 @@ const PORT = process.env.PORT || 5000
 app.listen(PORT, ()=>console.log(`server running on ${PORT}`))
 
 
-
-// API key
-// 0899d75820ded603feb0f92a4f309a36-us1
-
-// list ID
-// 6e6d8e096f
